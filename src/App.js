@@ -8,7 +8,7 @@ import line from "./line.svg";
 
 function App() {
   return (
-    <div className="flex flex-col justify-center items-center container mx-auto">
+    <div className="flex flex-col justify-center items-center mx-auto">
       <div className="md:text-8xl pb-5 pt-5 text-7xl">
         <p className="font-ds">Ainalayin</p>
       </div>
